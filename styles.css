@@ -1,6 +1,27 @@
-strong{
-  background-color: violet;
+body{
+background-color: thistle;
+padding: 50px 25px 50px 25px;
+margin: 25px 50px 25px 50px
 }
-span{
-  background-color: rgba(238, 130, 238, 0.666);
+
+h1 {
+  text-align: center;
+  border-style: dashed;
+  color: whitesmoke;
+}
+h3{
+  text-align: center;
+  margin-top: 10px ;
+  margin-bottom: 25px;
+  
+}
+.under{
+  text-decoration: underline;
+}
+img{
+  float: inline-end;
+}
+
+body{
+  float: inherit;
 }

@@ -12,6 +12,7 @@
 ## Description
 
 _my first school projet._
+
 [my first webPage](https://orbu13.github.io/my-first-independent/)
 
 ## Setup/Installation Requirements
@@ -28,8 +29,7 @@ _my first school projet._
 
 Copyright (c) _2023_ _orel butbul_
 
-[ MIT License ]
-(https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

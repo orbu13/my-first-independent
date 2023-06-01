@@ -7,7 +7,7 @@
 ## Technoloies Used
 
 * _html_
-*_css_
+* _css_
 
 ## Description
 

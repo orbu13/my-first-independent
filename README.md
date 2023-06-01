@@ -11,8 +11,8 @@
 
 ## Description
 
-[_my first school projet._]
-(https://orbu13.github.io/my-first-independent/)
+_my first school projet._
+[my first webPage](https://orbu13.github.io/my-first-independent/)
 
 ## Setup/Installation Requirements
 
